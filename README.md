@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 -->
 
-<span style="color:#008080">I am a highly motivated software developer with experience in Java, Python, and C++. I thrive in collaborative environments and am eager to continuously improve my skills. With a strong work ethic and passion for software development, I am confident in my ability to make valuable contributions to any team.</span>
+<span style="color:#d62828">I am a highly motivated software developer with experience in Java, Python, and C++. I thrive in collaborative environments and am eager to continuously improve my skills. With a strong work ethic and passion for software development, I am confident in my ability to make valuable contributions to any team.</span>
 
