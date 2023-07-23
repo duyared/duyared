@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyared&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 -->
+
+I am a highly motivated software developer with experience in Java, Python, and C++. I thrive in collaborative environments and am eager to continuously improve my skills. With a strong work ethic and passion for software development, I am confident in my ability to make valuable contributions to any team.
+
