@@ -1,6 +1,6 @@
 <h2 align="center"> Yared Tekleyohannes</h2>
 
-<p align="center" ><code>Frontend Web Developer/Software Developer </code></p>
+<p align="center" ><code>Web Developer/Software Developer </code></p>
 
 <!--
 **duyared/duyared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
