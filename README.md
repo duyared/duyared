@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yared</h1>
-<h3 align="center">A highly motivated Full Stack web Developer. I thrive in collaborative environments and am eager to continuously improve my skills.</h3>
+<h3 align="center">A highly motivated Full Stack web Developer with a strong ability to work collaboratively and independently. I am dedicated to continuously enhancing my skills and delivering exceptional results.</h3>
 <img align="right"  width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding" />
 
 - 🔭 I’m currently working on [WatchThisOne](https://github.com/duyared/watch-this-one)
