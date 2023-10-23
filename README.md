@@ -25,6 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duyared&show_icons=true&locale=en&layout=compact" alt="duyared" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyared&show_icons=true&locale=en" alt="duyared" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyared&" alt="duyared" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=duyared&limit=5&theme=flat&combine_all_yearly_contributions=true)
