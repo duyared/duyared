@@ -1,3 +1,5 @@
+<!--used https://rahuldkjain.github.io/gh-profile-readme-generator/ for the template  -->
+
 <h1 align="center">Hi 👋, I'm Yared</h1>
 <h3 align="center">A highly motivated Full Stack web Developer with a strong ability to work collaboratively and independently. I am dedicated to continuously enhancing my skills and delivering exceptional results.</h3>
 <img align="right"  width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding" />
