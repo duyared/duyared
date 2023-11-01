@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyared&show_icons=true&locale=en" alt="duyared" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyared&" alt="duyared" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyared&" alt="duyared" /></p> -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=duyared&limit=5&theme=flat&combine_all_yearly_contributions=true)
