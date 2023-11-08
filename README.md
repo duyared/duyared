@@ -4,7 +4,7 @@
 <h3 align="center">A highly motivated Full Stack web Developer with a strong ability to work collaboratively and independently. I am dedicated to continuously enhancing my skills and delivering exceptional results.</h3>
 <img align="right"  width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding" />
 
-- 🔭 I’m currently working on [WatchThisOne](https://github.com/duyared/watch-this-one)
+- 🔭 I’m currently working on [WatchThisOne](https://github.com/duyared/watch-this-one), checkout  [website](https://watchthisone.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/duyared](https://github.com/duyared)
 
