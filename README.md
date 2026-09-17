@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/duyared](https://github.com/duyared)
 
-- 💬 Ask me about **react,react-router v6**
 
 - 📫 How to reach me **yaredte45@gmail.com**
 
